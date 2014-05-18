@@ -1,0 +1,30 @@
+<TaskerData sr="" dvi="1" tv="4.3u4m">
+	<Task sr="task35">
+		<cdate>1400354191493</cdate>
+		<edate>1400382324569</edate>
+		<id>35</id>
+		<nme>Enable Trusted Timer</nme>
+		<Action sr="act0" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%TrusedDevice</lhs>
+					<op>3</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>159</code>
+			<Str sr="arg0" ve="3">Trusted Mode Timer</Str>
+			<Int sr="arg1" val="1"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>38</code>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>refresh</nme>
+			<pkg>net.dinglisch.android.ipack.kyotuxaeonhd</pkg>
+		</Img>
+	</Task>
+</TaskerData>

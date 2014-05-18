@@ -1,0 +1,19 @@
+<TaskerData sr="" dvi="1" tv="4.3u4m">
+	<Task sr="task16">
+		<cdate>1400333172123</cdate>
+		<edate>1400364598148</edate>
+		<id>16</id>
+		<nme>Trusted Device Connect</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>888</code>
+			<Str sr="arg0" ve="3">%TrusedDevice</Str>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>add</nme>
+			<pkg>net.dinglisch.android.ipack.kyotuxaeonhd</pkg>
+		</Img>
+	</Task>
+</TaskerData>
