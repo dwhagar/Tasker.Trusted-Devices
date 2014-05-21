@@ -9,6 +9,7 @@ Mimic the "Trusted Devices" feature of the Moto X.
 
 ## Version History
 * v0.1 - Initial functional release.
+* v0.2 - Fixed bugs, issues with unwanted disabling of the lock screen.
 
 ## What does it DO?
 I used a Moto X for a good long while and it was my absolute favorite phone I've ever used.  One thing made it so handy for me while riding my bicycle or driving the car was the "Trusted Devices" feature.  The feature basically leaves the phone unlocked while a trusted device is connected.
